@@ -1,0 +1,6 @@
+{
+  "name": "Life OS Dashboard",
+  "description": "A comprehensive, high-fidelity Life Operating System and habits tracker for self-improvement, spiritual routines, and skills development, powered by Gemini AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
